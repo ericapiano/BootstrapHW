@@ -1,0 +1,74 @@
+header {
+
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    clear: both;
+    color: #fff;
+    color: #fff;
+    text-align: center;
+    background: #FFB6C1;
+    height: 40px;
+  
+}
+
+
+.display-4 {
+  font-size: 20px;
+  padding: 40px;
+  text-align: left;
+}
+
+footer {
+    padding: 30px 0;
+    left: 0;
+    clear: both;
+    font-size: 12px;
+    color: #fff;
+    color: #ccc;
+    text-align: center;
+    background: #666;
+    border-top: 8px solid #FFB6C1;
+    height: 50px;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+
+  }
+
+
+
+  container {
+    padding: 30px 0;
+    position: fixed;
+    clear: both;
+    font-size: 12px;
+    color: #fff;
+    color: #ccc;
+    text-align: center;
+    background: #666;
+    border-top: 8px solid #FFB6C1;
+    height: 50px;
+
+  }
+
+  #navbarSupportedContent {
+    align-content: flex-end;
+
+  }
+
+  .SubmitButton {
+    text-align: center;
+
+  }
+
+  .profilepic {
+    float: left;
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+  }
+
+  .portfolio img {
+    width: 300px;
+  }
